@@ -1,6 +1,6 @@
 {
   "name": "1pulse-woocommerce-rest-api",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "WooCommerce REST API - JavaScript Library",
   "author": "Automattic",
   "license": "MIT",
